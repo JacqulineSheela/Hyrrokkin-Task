@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_34" data-name="Group 34" transform="translate(-1726 -2861)">
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="48" height="48" transform="translate(1726 2861)" fill="#0d0d0d"/>
+    <g id="Iconly_Light-Outline_Arrow---Right" data-name="Iconly/Light-Outline/Arrow---Right" transform="translate(1741.75 2878)">
+      <g id="Arrow---Right" transform="translate(0 13.549) rotate(-90)">
+        <path id="Combined-Shape" d="M6.775,16.5a.75.75,0,0,0,.743-.648l.007-.1V2.566l4.743,4.763A.75.75,0,0,0,13.4,6.355l-.072-.084L7.306.221a.751.751,0,0,0-.124-.1L7.142.1,7.1.076,7.049.052,7.006.036,6.949.02,6.91.012,6.85,0,6.8,0H6.745L6.7,0l.073,0a.753.753,0,0,0-.139.013L6.6.02c-.023.005-.044.011-.066.019L6.5.05c-.023.009-.044.018-.065.029l-.03.016L6.361.124,6.328.148,6.319.154A.75.75,0,0,0,6.244.22h0L.219,6.271A.75.75,0,0,0,1.2,7.4l.084-.073L6.024,2.568V15.75A.75.75,0,0,0,6.775,16.5Z" transform="translate(0)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
